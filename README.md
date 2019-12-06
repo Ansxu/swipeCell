@@ -1,7 +1,5 @@
 搞了一个滑动删除功能，把实现方法整理记录一下；demo地址
-> 先放预览图
-
-![](https://user-gold-cdn.xitu.io/2019/12/6/16ed9c0c252bd7ab?w=369&h=665&f=gif&s=1270806)
+预览图/详细地址：https://juejin.im/post/5de9eaf06fb9a0162a0b67b5
 ## 实现思路
 #### 布局
 1、最外层一个盒子，固定宽度，跟手机屏幕宽相同。设置超出隐藏`overflow:hidden;`
